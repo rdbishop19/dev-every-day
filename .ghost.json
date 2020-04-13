@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://104.248.62.57",
+    "apiUrl": "https://www.deveveryday.com",
     "contentApiKey": "ef1209ebfa510e809cf09293aa"
   },
   "production": {
-    "apiUrl": "http://104.248.62.57",
+    "apiUrl": "https://www.deveveryday.com",
     "contentApiKey": "ef1209ebfa510e809cf09293aa"
   }
 }
