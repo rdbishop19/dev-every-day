@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://www.deveveryday.com",
-    "contentApiKey": "ef1209ebfa510e809cf09293aa"
+    "apiUrl": "https://gatsby.ghost.io",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://www.deveveryday.com",
-    "contentApiKey": "ef1209ebfa510e809cf09293aa"
+    "apiUrl": "https://gatsby.ghost.io",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
   }
 }
